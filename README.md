@@ -44,7 +44,7 @@ The project is explained in greater detail in my blog post: [Hear the world usin
 
 ### Wiring
 
-Please check my blog post for further wiring information: [Hear the world using Azure OpenAI and a Raspberry Pi - marcogerber.ch](https://marcogerber.ch/hear-the-world-u%E2%80%A6d-a-raspberry-pi/)
+Please check my blog post for further wiring information: [Hear the world using Azure OpenAI and a Raspberry Pi - marcogerber.ch](https://marcogerber.ch/hear-the-world-using-azure-openai-and-a-raspberry-pi/)
 
 ![Components overview breadboard](https://marcogerber.ch/wp-content/uploads/2024/07/overview-components-breadboard.jpg)
 
